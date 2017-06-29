@@ -56,6 +56,11 @@ p{
   color:#000;
 }
 
+#statement p.customer{
+  font-size:20px;
+  color:#666;
+}
+
 #nice{
   color:#000;
 }
