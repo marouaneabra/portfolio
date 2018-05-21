@@ -6,6 +6,10 @@ Responsive one page website template
 
 Set up the repo in your local machine
 
+## Live Demo
+
+[Demo](https://marouaneabra.github.io/website-template)
+
 ## Contributing
 
 1. Fork it!
